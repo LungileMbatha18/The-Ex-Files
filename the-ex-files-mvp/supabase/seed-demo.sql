@@ -1,2 +1,0 @@
--- Intentionally empty. Do not fabricate production users, reviews, statistics or testimonials.
--- If development fixtures are needed, create them separately and label them DEMO DATA.
